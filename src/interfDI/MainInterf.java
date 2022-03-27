@@ -1,7 +1,7 @@
-package interf;
+package interfDI;
 
-import interf.notas.nota1;
-import interf.notas.nota2;
+import interfDI.notas.nota1;
+import interfDI.notas.nota2;
 
 public class MainInterf {
     public static void main(String arg[]){

@@ -1,6 +1,6 @@
-package interf;
+package interfDI;
 
-import interf.interfac.IntefCalc;
+import interfDI.interfac.IntefCalc;
 
 public class Calcular {
     private IntefCalc ic;

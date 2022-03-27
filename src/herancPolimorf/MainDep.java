@@ -17,7 +17,7 @@ public class MainDep {
         g1.setSalario(5000.0);
         ps.println("gerente "+g1.getBonificacao());
 
-        //uma classe pai pode ser uma classe filha e acessar os metodos dos reecritos do filhos
+
         Gerente g2 = new Gerente();
         Funcionario f2 = new Funcionario();
         f2 = g2;

@@ -1,6 +1,6 @@
-package interf.notas;
+package interfDI.notas;
 
-import interf.interfac.IntefCalc;
+import interfDI.interfac.IntefCalc;
 
 public class nota2 implements IntefCalc{
 
